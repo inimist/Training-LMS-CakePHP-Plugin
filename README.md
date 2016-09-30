@@ -17,4 +17,5 @@ Supports CakePHP 1.x & 2.x
 * Re-attempt a Quiz
 * Request unlocking of quizes
 * Show results with given answers with green or red color.
+* Set cross matching question/answers
 * Many more features!
