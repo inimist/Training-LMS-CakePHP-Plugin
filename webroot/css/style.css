@@ -1,0 +1,110 @@
+.section-answer input[type=radio], .section-answer input[type=checkbox]{margin-right:5px;}
+.section-answer label{display:block;font-weight:normal;}
+.que {
+margin: 0 auto 1.8em auto;
+clear: left;
+text-align: left;
+}
+.que .info {
+float: left;
+width: 7em;
+padding: .5em;
+margin-bottom: 1.8em;
+background-color: #EEE;
+border: 1px solid #DCDCDC;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+border-radius: 2px;
+}
+.que .content {
+margin: 0 0 0 8.5em;
+}
+.que h3.no {
+margin: 0;
+font-size: .8em;
+line-height: 1;
+}
+.que .info>div {
+margin-top: .7em;
+font-size: .8em;
+}
+.que .info .questionflag.editable {
+cursor: pointer;
+}
+.que .qtext {
+margin-bottom: 1.5em;
+}
+.que .ablock {
+margin: .7em 0 .3em 0;
+}
+.que .formulation, .que .outcome, .que .comment {
+padding: 8px 35px 8px 14px;
+margin-bottom: 20px;
+color: #C09853;
+text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+background-color: #FCF8E3;
+border: 1px solid #FBEED5;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;
+}
+.accesshide {
+position: absolute;
+left: -10000px;
+font-size: 1em;
+font-weight: normal;
+}
+.que .specificfeedback, .que .generalfeedback, .que .rightanswer, .que .im-feedback, .que .feedback, .que p {
+margin: 0 0 .5em;
+}
+.que .formulation {
+color: #3A87AD;
+color: #333;
+background-color: #D9EDF7;
+border-color: #BCE8F1;
+}
+.formulation .incorrect {
+background-color: #F2DEDE;
+}
+.que .questioncorrectnessicon {
+vertical-align: text-bottom;
+}
+.que.multichoice .answer div.r0, .que.multichoice .answer div.r1 {
+padding: 0.3em 0 0.3em 25px;
+text-indent: -25px;
+}
+.que.multichoice .answer div.r0 input, .que.multichoice .answer div.r1 input {
+margin: 0 5px;
+padding: 0;
+width: 15px;
+}
+.que.multichoice .answer div.r0 label, .que.multichoice .answer div.r1 label, .que.multichoice .answer div.r0 div.specificfeedback, .que.multichoice .answer div.r1 div.specificfeedback {
+text-indent: 0;
+}
+.formulation .correct {
+background-color: #DFF0D8;
+}
+
+.que label{font-weight: normal;}
+
+.attempt-default {
+  background-color: lightgreen;
+}
+
+.attempt-archived {
+    background-color: antiquewhite;
+}
+
+#userview .listchkbox{float:left;}
+
+.dropable{
+	display: block;
+	border: 1px dashed #000;
+	min-height: 100px;
+	width:100%;
+}
+.dropable li{ width: 100%;
+	border: 1px solid #ccc;
+	padding: 5px 15px;
+	border-radius: 3px;
+}
