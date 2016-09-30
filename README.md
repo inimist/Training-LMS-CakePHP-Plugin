@@ -1,6 +1,8 @@
 # Training-LMS-CakePHP-Plugin
 Training or Learning Management System
 
+Supports CakePHP 1.x & 2.x
+
 * Add users
 * Add Courses
 * Enrol students/users to courses
