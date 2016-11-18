@@ -20,8 +20,43 @@ Supports CakePHP 1.x & 2.x
 * Set cross matching question/answers
 * Many more features!
 
-<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%201.png" />
-<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%202.png" />
-<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%203%20-%20multiple%20question%28one%20answer%29.png" />
-<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%203%20-%20multiple%20question.png" />
-<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%203.png" />
+# Details
+
+Training Module has Courses with multiple Quizzes/Tests and a Question Bank for each Course. Questions can be Copied/Duplicated from one Course to another. Courses can be assigned to Students with fixed time or on-going basis. Multiple Students can be Enroled to multiple Courses at once or Multiple Courses can be assigned to multiple Students at once.
+
+Administrtor can add different types of Questions, such as, True/False, Multiple Choice-One Answer, Multiple Choice-Multiple answers, one line text, multiple lined text area type, and Matching Pair. WYSIWYG editor CKEditor supported for rich text Questions as well as for Answers.
+
+Student can take test when date of taking test is in range. At the end of taking test it automatically calculates result of the Quiz taken by Student. Student can go to next or previous questions until they have submitted the test. They can request re-attempt for certain exams.
+
+Various settings for a Quiz like - Minimum Questions needed to Pass or Min marks needed to Pass, using grading system or marks system for calculating results and so on. Admin can add any number of Questions to Quiz or Test from Question Bank or to a particular Course.
+
+Admin can review results of Students and Reports can be Exported in Excel and/or PDF formats. Admin can also manage currently enrolled Student at any moment. 
+
+Drag and Drop feature for arranging question in a quiz is also possible. Questions in a Quiz can be set to have a specific questions per page, such as, one question on one page or 3 questions on one page. Question slots for each page can be arranged using Drag Drop.
+
+#LMS-Training Modules Screenshot 1 - Courses Dashboard
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-1-courses-dashboard.jpg" />
+
+#LMS-Training Modules Screenshot 2 - Quizzes in a Course
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-2-quizzes-in-a-course.jpg" />
+
+#LMS-Training Modules Screenshot 3 - Questions in a Quiz/Test
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-3-questions-in-a-quiz.jpg" />
+
+#LMS-Training Modules Screenshot 4 - Taking Test. One Question per page. Multiple Answers Type Question
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-4-question-with-multiple-answers.jpg" />
+
+#LMS-Training Modules Screenshot 5 - Taking Test. One Question per page. Objective Type Question with one answer
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-5-multiple-question-one-answer.jpg" />
+
+#LMS-Training Modules Screenshot 6 - Single Course View & Reports page
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-6-Course-View-and-Reports.jpg" />
+
+#LMS-Training Modules Screenshot 7 - Manage Question slots, Drag and Drop
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-7-manage-question-slots.jpg" />
+
+#LMS-Training Modules Screenshot 8 - Taking Test. Matching Pairs Question
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-8-matching-pairs.jpg" />
+
+#LMS-Training Modules Screenshot 8 - Results Review Page
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training-Modules-screenshot-9-Result-review.jpg" />
