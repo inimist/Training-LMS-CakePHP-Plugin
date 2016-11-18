@@ -19,3 +19,5 @@ Supports CakePHP 1.x & 2.x
 * Show results with given answers with green or red color.
 * Set cross matching question/answers
 * Many more features!
+
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%201.png" />
