@@ -21,3 +21,7 @@ Supports CakePHP 1.x & 2.x
 * Many more features!
 
 <img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%201.png" />
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%202.png" />
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%203%20-%20multiple%20question%28one%20answer%29.png" />
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%203%20-%20multiple%20question.png" />
+<img src="https://dl.dropboxusercontent.com/u/25155915/cakephp-lms-img/Training%20Modules%20screenshot%203.png" />
