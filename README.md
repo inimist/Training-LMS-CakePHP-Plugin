@@ -44,19 +44,19 @@ Drag and Drop feature for arranging question in a quiz is also possible. Questio
 <img src="https://www.dropbox.com/s/acgg5087vn83vwa/Training-Modules-screenshot-3-questions-in-a-quiz.jpg?dl=0" />
 
 #LMS-Training Modules Screenshot 4 - Taking Test. One Question per page. Multiple Answers Type Question
-<img src="https://www.dropbox.com/s/8aecycpq7pepfns/Training-Modules-screenshot-4-question-with-multiple-answers.jpg?dl=0" />
+<img src="https://www.dropbox.com/s/8aecycpq7pepfns/Training-Modules-screenshot-4-question-with-multiple-answers.jpg" />
 
 #LMS-Training Modules Screenshot 5 - Taking Test. One Question per page. Objective Type Question with one answer
-<img src="https://www.dropbox.com/s/k22q5ll66m36q8h/Training-Modules-screenshot-5-multiple-question-one-answer.jpg?dl=0" />
+<img src="https://www.dropbox.com/s/k22q5ll66m36q8h/Training-Modules-screenshot-5-multiple-question-one-answer.jpg" />
 
 #LMS-Training Modules Screenshot 6 - Single Course View & Reports page
-<img src="https://www.dropbox.com/s/ijkypb4eu46gjir/Training-Modules-screenshot-6-Course-View-and-Reports.jpg?dl=0" />
+<img src="https://www.dropbox.com/s/ijkypb4eu46gjir/Training-Modules-screenshot-6-Course-View-and-Reports.jpg" />
 
 #LMS-Training Modules Screenshot 7 - Manage Question slots, Drag and Drop
-<img src="https://www.dropbox.com/s/ynlp4k1yeum2n2s/Training-Modules-screenshot-7-manage-question-slots.jpg?dl=0" />
+<img src="https://www.dropbox.com/s/ynlp4k1yeum2n2s/Training-Modules-screenshot-7-manage-question-slots.jpg" />
 
 #LMS-Training Modules Screenshot 8 - Taking Test. Matching Pairs Question
-<img src="https://www.dropbox.com/s/6f6m2iy8w1vk2f2/Training-Modules-screenshot-8-matching-pairs.jpg?dl=0" />
+<img src="https://www.dropbox.com/s/6f6m2iy8w1vk2f2/Training-Modules-screenshot-8-matching-pairs.jpg" />
 
 #LMS-Training Modules Screenshot 9 - Results Review Page
-<img src="https://www.dropbox.com/s/tzc47ux5cwl3f68/Training-Modules-screenshot-9-Result-review.jpg?dl=0" />
+<img src="https://www.dropbox.com/s/tzc47ux5cwl3f68/Training-Modules-screenshot-9-Result-review.jpg" />
