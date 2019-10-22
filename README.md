@@ -35,7 +35,8 @@ Admin can review results of Students and Reports can be Exported in Excel and/or
 Drag and Drop feature for arranging question in a quiz is also possible. Questions in a Quiz can be set to have a specific questions per page, such as, one question on one page or 3 questions on one page. Question slots for each page can be arranged using Drag Drop.
 
 #LMS-Training Modules Screenshot 1 - Courses Dashboard
-<img src="https://www.dropbox.com/s/zrgd8jufa55w9bs/Training-Modules-screenshot-1-courses-dashboard.jpg?dl=0" />
+
+![Training-Modules-screenshot-1-courses-dashboard](https://www.dropbox.com/s/zrgd8jufa55w9bs/Training-Modules-screenshot-1-courses-dashboard.jpg)
 
 #LMS-Training Modules Screenshot 2 - Quizzes in a Course
 <img src="https://www.dropbox.com/s/nsvuaaw5pbsu0vv/Training-Modules-screenshot-2-quizzes-in-a-course.jpg?dl=0" />
