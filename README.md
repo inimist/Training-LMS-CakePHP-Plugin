@@ -36,28 +36,28 @@ Drag and Drop feature for arranging question in a quiz is also possible. Questio
 
 #LMS-Training Modules Screenshot 1 - Courses Dashboard
 
-![Training-Modules-screenshot-1-courses-dashboard](https://www.dropbox.com/s/zrgd8jufa55w9bs/Training-Modules-screenshot-1-courses-dashboard.jpg)
+![Training-Modules-screenshot-1-courses-dashboard](https://dl.dropboxusercontent.com/s/zrgd8jufa55w9bs/Training-Modules-screenshot-1-courses-dashboard.jpg)
 
 #LMS-Training Modules Screenshot 2 - Quizzes in a Course
-<img src="https://www.dropbox.com/s/nsvuaaw5pbsu0vv/Training-Modules-screenshot-2-quizzes-in-a-course.jpg?dl=0" />
+<img src="https://dl.dropboxusercontent.com/s/nsvuaaw5pbsu0vv/Training-Modules-screenshot-2-quizzes-in-a-course.jpg?dl=0" />
 
 #LMS-Training Modules Screenshot 3 - Questions in a Quiz/Test
-<img src="https://www.dropbox.com/s/acgg5087vn83vwa/Training-Modules-screenshot-3-questions-in-a-quiz.jpg?dl=0" />
+<img src="https://dl.dropboxusercontent.com/s/acgg5087vn83vwa/Training-Modules-screenshot-3-questions-in-a-quiz.jpg?dl=0" />
 
 #LMS-Training Modules Screenshot 4 - Taking Test. One Question per page. Multiple Answers Type Question
-<img src="https://www.dropbox.com/s/8aecycpq7pepfns/Training-Modules-screenshot-4-question-with-multiple-answers.jpg" />
+<img src="https://dl.dropboxusercontent.com/s/8aecycpq7pepfns/Training-Modules-screenshot-4-question-with-multiple-answers.jpg" />
 
 #LMS-Training Modules Screenshot 5 - Taking Test. One Question per page. Objective Type Question with one answer
-<img src="https://www.dropbox.com/s/k22q5ll66m36q8h/Training-Modules-screenshot-5-multiple-question-one-answer.jpg" />
+<img src="https://dl.dropboxusercontent.com/s/k22q5ll66m36q8h/Training-Modules-screenshot-5-multiple-question-one-answer.jpg" />
 
 #LMS-Training Modules Screenshot 6 - Single Course View & Reports page
-<img src="https://www.dropbox.com/s/ijkypb4eu46gjir/Training-Modules-screenshot-6-Course-View-and-Reports.jpg" />
+<img src="https://dl.dropboxusercontent.com/s/ijkypb4eu46gjir/Training-Modules-screenshot-6-Course-View-and-Reports.jpg" />
 
 #LMS-Training Modules Screenshot 7 - Manage Question slots, Drag and Drop
-<img src="https://www.dropbox.com/s/ynlp4k1yeum2n2s/Training-Modules-screenshot-7-manage-question-slots.jpg" />
+<img src="https://dl.dropboxusercontent.com/s/ynlp4k1yeum2n2s/Training-Modules-screenshot-7-manage-question-slots.jpg" />
 
 #LMS-Training Modules Screenshot 8 - Taking Test. Matching Pairs Question
-<img src="https://www.dropbox.com/s/6f6m2iy8w1vk2f2/Training-Modules-screenshot-8-matching-pairs.jpg" />
+<img src="https://dl.dropboxusercontent.com/s/6f6m2iy8w1vk2f2/Training-Modules-screenshot-8-matching-pairs.jpg" />
 
 #LMS-Training Modules Screenshot 9 - Results Review Page
-<img src="https://www.dropbox.com/s/tzc47ux5cwl3f68/Training-Modules-screenshot-9-Result-review.jpg" />
+<img src="https://dl.dropboxusercontent.com/s/tzc47ux5cwl3f68/Training-Modules-screenshot-9-Result-review.jpg" />
